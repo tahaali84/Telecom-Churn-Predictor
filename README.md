@@ -3,3 +3,5 @@ A Machine Learning web application built with Streamlit that predicts whether a 
 ## 🚀 Features
 - Customer Churn Prediction
 - Data Analysis & Visualization
+- Feature Engineering
+- SMOTE for Imbalanced Data Handling
