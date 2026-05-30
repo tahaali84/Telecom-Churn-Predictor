@@ -8,7 +8,7 @@ A Machine Learning web application built with Streamlit that predicts whether a 
 - Threshold Tuning
 - Model Comparison
 - Interactive Streamlit Dashboard
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python
 - Streamlit
 - Pandas
