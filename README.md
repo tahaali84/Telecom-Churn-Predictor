@@ -11,5 +11,5 @@ A Machine Learning web application built with Streamlit that predicts whether a 
 ## 🛠️ Tech Stack
 - Python
 - Streamlit
-- - Pandas
+- Pandas
 - NumPy
