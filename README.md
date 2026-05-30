@@ -17,3 +17,8 @@ A Machine Learning web application built with Streamlit that predicts whether a 
 - Imbalanced-learn (SMOTE)
 - Matplotlib
 - Seaborn
+## 📊 Models Used
+- Logistic Regression
+- Random Forest
+- Gradient Boosting
+
