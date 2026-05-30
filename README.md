@@ -13,3 +13,5 @@ A Machine Learning web application built with Streamlit that predicts whether a 
 - Streamlit
 - Pandas
 - NumPy
+- - Scikit-learn
+- Imbalanced-learn (SMOTE)
