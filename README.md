@@ -15,3 +15,5 @@ A Machine Learning web application built with Streamlit that predicts whether a 
 - NumPy
 - Scikit-learn
 - Imbalanced-learn (SMOTE)
+- - Matplotlib
+- Seaborn
